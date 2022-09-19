@@ -1,4 +1,6 @@
-### Hi there 👋
+### Saudações. 👋<br>
+Meu nome é Carlos e seja bem-vindo ao meu repositório do GitHub.<br>
+Sinta-se a vontade para explorar meu trabalho.
 
 <div align="center">
   <p><img src="./assets/workspace.gif" alt="Área de trabalho com PCs" ></p>
