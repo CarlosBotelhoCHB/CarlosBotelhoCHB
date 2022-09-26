@@ -8,7 +8,7 @@ Sinta-se a vontade para explorar meu trabalho.
   <br>
   <br>
   <p>
-    <img height="130em" 
+    <img height="150em" 
       src="https://github-readme-stats.vercel.app/api?username=CarlosBotelhoCHB&count_private=true&theme=dracula&count_private=true&show_icons=true">
     <img height="130em" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosBotelhoCHB&layout=compact&langs_count=7&theme=dracula"/>
